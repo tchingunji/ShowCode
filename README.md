@@ -12,9 +12,9 @@ Os precidimentos para executar os teste da aplicação são as seguintes:
 <p>A pasta API contem 4 arquivos fora o da BD, estes arquivos servem são "webService" para ajudar a aplicação mobile se comunicar com o sistema.</p>
 
 <div align="left">
-  <img src="https://github.com/tchingunji/Chamada/blob/master/firths.png"/>
+  <img src="https://github.com/tchingunji/ShowCode/blob/master/firths.png"/>
  
-  <img src="https://github.com/tchingunji/Chamada/blob/master/second.png"/>
+  <img src="https://github.com/tchingunji/ShowCode/blob/master/second.png"/>
  
-  <img src="https://github.com/tchingunji/Chamada/blob/master/last.png"/>
+  <img src="https://github.com/tchingunji/ShowCode/blob/master/last.png"/>
 </div>
